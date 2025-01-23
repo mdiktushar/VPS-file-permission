@@ -8,7 +8,7 @@
   <li>-R means it applies recursively to all subdirectories and files.</li>
 </ul>
 
- # Add your ubuntu to group
+ # Add your username to group
  ```
 sudo usermod -a -G www-data <username>
 ```
